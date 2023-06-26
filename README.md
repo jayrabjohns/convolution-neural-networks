@@ -1,6 +1,6 @@
 # Convolution neural networks
 
-A CNN classifier trained on the MNIST handwritten digits dataset, and comparisons of its results to a collection of other models.
+Implementing a CNN classifier trained on the MNIST handwritten digits dataset, and comparing its results to a collection of classical models.
 
 Submitted as coursework in my second year at the University of Bath.
 
